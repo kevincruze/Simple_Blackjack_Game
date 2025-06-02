@@ -29,7 +29,7 @@ The goal of the project is to simulate a game of Blackjack between a player and 
 - Thorough in-line comments for clarity
 
 ## Example Output
-'''Player's hand: [10, 9] (Total: 19)
+```Player's hand: [10, 9] (Total: 19)
 'Hit' or 'Stand'? stand
 
 Dealer's hand: [7, 8] (Total: 15)
@@ -37,7 +37,8 @@ Dealer hits.
 Dealer's hand: [7, 8, 10] (Total: 25)
 Dealer busted. You win!
 Play again? (Yes/No): No
-Thank you for playing!'''
+Thank you for playing!
+```
 
 ## Files
 
