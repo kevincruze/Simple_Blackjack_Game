@@ -1,7 +1,7 @@
 # Simple_Blackjack_Game
 # Blackjack Game (Python)
 
-This is a simple command-line Blackjack game written in Python as part of a class coding project.
+This is a simple command-line Blackjack game written in Python as a coding project.
 
 ## Purpose
 
